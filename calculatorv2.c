@@ -76,40 +76,40 @@ if (oper == 'a')
 {
    if (sumans == answer)
    {
-       printf("the answer is correct");
+       printf("The answer is correct");
    }else
    {
-       printf("the answer is incorrect");
+       printf("The answer is incorrect");
    }
 }else if (oper == 'b')
 {
     if (diffans == answer)
     {
-        printf("the answer is correct");
+        printf("The answer is correct");
     }else
     {
-        printf("the answer is incorrect");
+        printf("The answer is incorrect");
     }  
 }else if (oper == 'c')
 {
     if (divans == answer)
     {
  
-        printf("the answer is correct");
+        printf("The answer is correct");
     }
     else
     {
-        printf("the answer is incorrect");
+        printf("The answer is incorrect");
     }
 }else if (oper == 'd')
 {
     if (multans == answer)
     {
-        printf("the answer is correct");
+        printf("The answer is correct");
     }
     else
     {
-        printf("the answer is incorrect");
+        printf("The answer is incorrect");
     }   
 }
 
